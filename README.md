@@ -1,1 +1,3 @@
 # cppProject
+THIS IS CPP PROJECT
+MUSIC PLAYER
